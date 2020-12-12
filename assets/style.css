@@ -14,7 +14,7 @@ p {
     font-size: 18px;
 }
 
-/* ~~~~ Top Header Logo ~~~~~~~~~~ */
+/* ~~~~ Top Header Section ~~~~~~~~~~ */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,17 +53,17 @@ li {
       color: #ffffff;
     text-decoration: none;
 }
-
+/*Text Link Color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-#hero {
+/* Image Meeting Styling*/
+#meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -126,6 +126,7 @@ h3 {
     text-align: center;
 }
 
+/* Benefit Image Styling */
 .benefit-img {
     display: block;
     margin: 10px auto;
